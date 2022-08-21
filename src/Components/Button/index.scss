@@ -1,0 +1,11 @@
+.component__button{
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: 400ms;
+    font-family: 'Roboto';
+    font-weight: 700;
+    &:hover{
+        background: transparent;
+    }
+}
